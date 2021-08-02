@@ -1,5 +1,8 @@
-### Oi meu nome é Kleberson Romero 👋 
-
+### Hi i'm Kleberson Romero 👋 
+<br>
+<li> 💻 𝖨'𝗆 𝗌𝗍𝗎𝖽𝗒𝗂𝗇𝗀 data science </li>
+<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 PowerPlatform/Ruby-Rails </li>
+<br>
 <div>
   <a href="https://github.com/KlebersonCollab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KlebersonCollab&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -32,3 +35,12 @@
     
  
 </div>
+  
+#
+  
+<img height="180" src="https://media.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif">
+
+<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴  </h3>
+
+#
+
