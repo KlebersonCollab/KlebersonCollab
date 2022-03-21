@@ -1,7 +1,7 @@
 ### Hi i'm Kleberson Romero 👋 
 <br>
 <li> 💻 𝖨'𝗆 𝗌𝗍𝗎𝖽𝗒𝗂𝗇𝗀 data science </li>
-<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 PowerPlatform/Ruby-Rails </li>
+<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 PowerPlatform/Ruby-Rails/Python </li>
 <br>
 <div>
   <a href="https://github.com/KlebersonCollab">
