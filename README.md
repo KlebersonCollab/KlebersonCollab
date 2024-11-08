@@ -1,7 +1,5 @@
 ### Hi i'm Kleberson Romero 👋 
 <br>
-<li> 💻 data scientist </li>
-<li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Go </li>
 <br>
 <div>
   <a href="https://github.com/KlebersonCollab">
