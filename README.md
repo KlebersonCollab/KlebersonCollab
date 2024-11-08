@@ -55,7 +55,7 @@ I'm a **data scientist** and **full-stack developer** passionate about technolog
 - I'm a huge fan of **animes** 🎬.
 - I love exploring and developing **artificial intelligence** solutions 🤖.
   <div align="center">
-    ![Fun](https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966)
+    <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="Learning"/>
 </div>
 <div>
   <img height="180" src="https://media.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif">
