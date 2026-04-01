@@ -44,6 +44,6 @@ I'm a **data scientist** and **full-stack developer** passionate about technolog
 - I love exploring and developing **artificial intelligence** solutions 🤖.
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="Learning"/>
+  <img src="https://imgs.search.brave.com/cFvaYNdM7_sXqGKbKAm9ISneJgZvR3d156paEkXpxNI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhOemN6WkhKNmNH/MXBZMjgzWjIweVpE/RXlhVE15ZG1waE5X/bDZkV3BzTVhkaVl6/SjVhak4xWVNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMkl1ZFVIZEkw/NzVITDAyUGtrLzIw/MC5naWY.gif" alt="Learning"/>
   <h2>Thanks for Visiting! 🚀</h3>
 </div>
