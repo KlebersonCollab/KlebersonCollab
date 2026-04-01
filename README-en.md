@@ -1,12 +1,16 @@
 ### Hi, I'm Kleberson Romero 👋 
-<br>
 
-<div>
-  <a href="https://github.com/KlebersonCollab">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KlebersonCollab&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlebersonCollab&layout=compact&langs_count=7&theme=react"/>
-  </a>
-</div>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://ghstats.dev/api/card?username=KlebersonCollab&theme=tokyonight)
+
+## 🔥 Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KlebersonCollab&theme=tokyonight)](https://git.io/streak-stats)
+
+## 🚀 Top Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,flutter,postgres,gcp,azure,docker)](https://skillicons.dev)
 
 ## 👨‍💻 About Me
 
